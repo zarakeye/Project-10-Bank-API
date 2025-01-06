@@ -24,6 +24,7 @@
     "server": "node ./server/server.js"
   },
   "devDependencies": {
+    "mongodb": "^6.12.0",
     "nodemon": "^2.0.4"
   }
 }
